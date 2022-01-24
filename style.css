@@ -1,0 +1,5 @@
+.word-cell {
+  width: 3.75rem;
+  height: 1.625rem;
+  border: 1px solid gray;
+}
